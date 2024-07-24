@@ -6,6 +6,6 @@ import com.spring.java.sprinhapi2826505.entities.Product;
 
 public interface ProductRepository extends CrudRepository<Product , Long>{
     //Repositorio por cada entidad
-    /
+    
 
 }
